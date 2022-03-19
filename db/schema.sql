@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS tech_tea_db;
+
+CREATE DATABASE tech_tea_db;
