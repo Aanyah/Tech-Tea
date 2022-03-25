@@ -182,6 +182,10 @@ h4 {
     color: var(--light-dark);
 }
 
+.linkL {
+    color: var(--primary);
+}
+
 .login-link {
     color: var(--dark);
 }
